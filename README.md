@@ -32,4 +32,3 @@ published by the Free Software Foundation, either version 3 of the License, or
 
 The weather data is provided by [OpenWeatherMap](https://openweathermap.org/), under the <a href='http://creativecommons.org/licenses/by-sa/2.0/'>Creative Commons license</a>.
 
-Icons are <a href='https://erikflowers.github.io/weather-icons/'>Weather Icons</a>, by <a href='http://www.twitter.com/artill'>Lukas Bischoff</a> and <a href='http://www.twitter.com/Erik_UX'>Erik Flowers</a>, under the <a href='http://scripts.sil.org/OFL'>SIL OFL 1.1</a> license.
