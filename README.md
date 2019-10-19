@@ -5,8 +5,6 @@
 
 A simple, opensource weather app for Android. It gathers data from [OpenWeatherMap](https://openweathermap.org/), via their public API.
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Get_it_on_F-Droid.svg/200px-Get_it_on_F-Droid.svg.png" style="float: left; padding-right: 10px;">](https://f-droid.org/repository/browse/?fdid=cz.martykan.forecastie)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Get_it_on_Google_play.svg/500px-Get_it_on_Google_play.svg.png" style="float: left; padding-right: 10px;" height="70">](https://play.google.com/store/apps/details?id=com.casticalabs.forecastie)
 
 ## Features
 * Simple design
